@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scatterplot/static/css/main.21458b7d.css",
+    "main.js": "/scatterplot/static/js/main.ec6dc66b.js",
+    "index.html": "/scatterplot/index.html",
+    "main.21458b7d.css.map": "/scatterplot/static/css/main.21458b7d.css.map",
+    "main.ec6dc66b.js.map": "/scatterplot/static/js/main.ec6dc66b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21458b7d.css",
+    "static/js/main.ec6dc66b.js"
+  ]
+}
